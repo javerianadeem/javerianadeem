@@ -39,7 +39,7 @@ Hi 👋, This is Javeria Nadeem</h1>
       <ul style="list-style-type:circle">
          <li> <a href="https://github.com/javerianadeem/page-object-model-selenium">Page Object Model Selenium (Java, TestNG, Allure Reports</a> </li>
          <li> <a href="https://github.com/javerianadeem/KeywordDrivenFramework-OpenMRS">Keyword Driven Framework (Java, Selenium)</a> </li>
-         <li> <a href="https://github.com/javerianadeem/portal-automation-testng/tree/master">Portal Automation (Java, TestNG) (TMB)</a> </li>
+         <li> <a href="https://github.com/javerianadeem/portal-automation-testng/tree/master">Portal Automation (Java, TestNG)</a> </li>
          <li> <a href="https://github.com/javerianadeem/portal-automation-bdd/tree/master">Portal Automation (Java, Cucumber, Extent Reports) </a> </li>
          <li> <a href="https://github.com/javerianadeem/CypressFramework_OpenMRS">Cypress Framework (Javascript) </a> </li>
       </ul>
